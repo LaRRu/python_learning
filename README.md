@@ -1,0 +1,1 @@
+That is a repository which is used to collecting a small python-learning projects.
