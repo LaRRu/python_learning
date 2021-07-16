@@ -2,7 +2,10 @@
 Write some code that can take two dates as input,
 and calculate the amount of time between them.
 This will be a great way to familiarize yourself
-with Python's datetime module. """
+with Python's datetime module.
+
+For all projects at beginner level user input validation is not performed.
+"""
 
 import datetime
 

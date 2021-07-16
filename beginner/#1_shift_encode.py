@@ -1,6 +1,9 @@
 """Create a "Code" Generator that takes text as input
 and replaces each letter with another letter,
-and outputs the "encoded" message."""
+and outputs the "encoded" message.
+
+For all projects at beginner level user input validation is not performed.
+"""
 
 
 from string import ascii_letters, digits, punctuation
