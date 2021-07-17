@@ -8,7 +8,7 @@ Python Project Ideas: Beginner Level
  - [Link](/beginner//3_bubble_sorting.py) Write a Sorting Method. Given a list, can you write some code that sorts it alphabetically, or numerically? Yes, Python has this functionality built-in, but see if you can do it without using sort()! 
  - [Link](/beginner//4_configurable_paswd_generator.py) Build an Interactive Quiz. Which Avenger are you? Build a personality or recommendation quiz that can asks users some questions, stores their answers, and then perform some kind of calculation to give the user a personalized end result that's based on their answers 
  - [Link](/beginner//5_tic_tac_toe.py) Tic-Tac-Toe by Text. Build a Tic-Tac-Toe game that's playable like a text adventure. Can you make it print a text-based representation of the board after each move? 
- - Make a Temperature/Measurement Converter. Write a script that can convert Fahrenheit to Celcius and back, or inches to centimeters and back, etc. How far ca you take it?
+ - [Link](/beginner//6_temperature_converter.py) Make a Temperature/Measurement Converter. Write a script that can convert Fahrenheit to Celcius and back, or inches to centimeters and back, etc. How far ca you take it?
  - Build a counter app. Take your first steps into the world of UI by building a very simple app that counts up by one each time a user clicks a button.
  - Build a number guessing game. Think of this as a bit like a text adventure, but with numbers. How far can you take it?
  - Build an alarm clock. This is borderline beginner/intermediate, but it's worth trying to build an alarm clock for yourself. Can you create different alarms? A snooze function?
