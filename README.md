@@ -2,12 +2,12 @@ That is a repository which is used to collecting a small python-learning project
 
 Python Project Ideas: Beginner Level
 
- [a link](/beginner/#1_shift_encode.py) 
- - Create a "Code" Generator that takes text as input and replaces each letter with another letter, and outputs the "encoded" message.
- - Build a "countdown calculator." Write some code that can take two dates as input, and calculate the amount of time between them. This will be a great way to familiarize yourself with Python's datetime module.
- - Write a Sorting Method. Given a list, can you write some code that sorts it alphabetically, or numerically? Yes, Python has this functionality built-in, but see if you can do it without using sort()! 
- - Build an Interactive Quiz. Which Avenger are you? Build a personality or recommendation quiz that can asks users some questions, stores their answers, and then perform some kind of calculation to give the user a personalized end result that's based on their answers
- - Tic-Tac-Toe by Text. Build a Tic-Tac-Toe game that's playable like a text adventure. Can you make it print a text-based representation of the board after each move?
+  
+ - Create a "Code" Generator that takes text as input and replaces each letter with another letter, and outputs the "encoded" message. [link](/beginner//#1_shift_encode.py)
+ - Build a "countdown calculator." Write some code that can take two dates as input, and calculate the amount of time between them. This will be a great way to familiarize yourself with Python's datetime module.[link](/beginner//#2_dates_delta_calc.py)
+ - Write a Sorting Method. Given a list, can you write some code that sorts it alphabetically, or numerically? Yes, Python has this functionality built-in, but see if you can do it without using sort()! [link](/beginner//#3_bubble_sorting.py) 
+ - Build an Interactive Quiz. Which Avenger are you? Build a personality or recommendation quiz that can asks users some questions, stores their answers, and then perform some kind of calculation to give the user a personalized end result that's based on their answers [link](/beginner//#4_configurable_paswd_generator.py) 
+ - Tic-Tac-Toe by Text. Build a Tic-Tac-Toe game that's playable like a text adventure. Can you make it print a text-based representation of the board after each move? [link](/beginner//#5_tic_tac_toe.py) 
  - Make a Temperature/Measurement Converter. Write a script that can convert Fahrenheit to Celcius and back, or inches to centimeters and back, etc. How far ca you take it?
  - Build a counter app. Take your first steps into the world of UI by building a very simple app that counts up by one each time a user clicks a button.
  - Build a number guessing game. Think of this as a bit like a text adventure, but with numbers. How far can you take it?
